@@ -1,12 +1,48 @@
 firewall_rules_modified_or_deleted:
   alerting: true
+  archive_time: null
+  archived: false
+  create_time: '2024-09-30T16:49:16.732511Z'
   enabled: true
+  id: ru_c03c78a9-477e-4145-82e5-130617af0b2b
+  resource_name: projects/750032884555/locations/eu/instances/67ebaddb-d421-47c2-97fd-a20adeec48a8/rules/ru_c03c78a9-477e-4145-82e5-130617af0b2b
+  revision_create_time: '2024-09-30T16:49:16.732511Z'
+  revision_id: v_1727714956_732511000
+  run_frequency: HOURLY
+  type: SINGLE_EVENT
 gcp_admin_privileged_roles_added_to_service_accounts:
   alerting: true
+  archive_time: null
+  archived: false
+  create_time: '2024-09-30T16:49:15.753135Z'
   enabled: true
+  id: ru_e81ff6bd-6380-412d-84a3-d5b112ed8733
+  resource_name: projects/750032884555/locations/eu/instances/67ebaddb-d421-47c2-97fd-a20adeec48a8/rules/ru_e81ff6bd-6380-412d-84a3-d5b112ed8733
+  revision_create_time: '2024-09-30T16:49:15.753135Z'
+  revision_id: v_1727714955_753135000
+  run_frequency: LIVE
+  type: SINGLE_EVENT
 gcp_multiple_service_apis_disabled:
   alerting: true
+  archive_time: null
+  archived: false
+  create_time: '2024-09-30T16:49:17.420287Z'
   enabled: true
+  id: ru_b997478c-be79-469b-8ab7-39c9e37c2cc0
+  resource_name: projects/750032884555/locations/eu/instances/67ebaddb-d421-47c2-97fd-a20adeec48a8/rules/ru_b997478c-be79-469b-8ab7-39c9e37c2cc0
+  revision_create_time: '2024-09-30T16:49:17.420287Z'
+  revision_id: v_1727714957_420287000
+  run_frequency: HOURLY
+  type: MULTI_EVENT
 permissions_granted_over_SA:
   alerting: true
+  archive_time: null
+  archived: false
+  create_time: '2024-09-30T16:49:14.475535Z'
   enabled: true
+  id: ru_b8d468d8-4e70-448b-bb9f-617ca58f060b
+  resource_name: projects/750032884555/locations/eu/instances/67ebaddb-d421-47c2-97fd-a20adeec48a8/rules/ru_b8d468d8-4e70-448b-bb9f-617ca58f060b
+  revision_create_time: '2024-09-30T16:49:14.475535Z'
+  revision_id: v_1727714954_475535000
+  run_frequency: LIVE
+  type: SINGLE_EVENT
